@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": ".//https://fishdev20.github.io/Stock-App/static/css/main.6197e52d.css",
+    "main.js": ".//https://fishdev20.github.io/Stock-App/static/js/main.0031dd68.js",
+    "static/js/377.4192ec79.chunk.js": ".//https://fishdev20.github.io/Stock-App/static/js/377.4192ec79.chunk.js",
+    "service-worker.js": ".//https://fishdev20.github.io/Stock-App/service-worker.js",
+    "index.html": ".//https://fishdev20.github.io/Stock-App/index.html",
+    "main.6197e52d.css.map": ".//https://fishdev20.github.io/Stock-App/static/css/main.6197e52d.css.map",
+    "main.0031dd68.js.map": ".//https://fishdev20.github.io/Stock-App/static/js/main.0031dd68.js.map",
+    "377.4192ec79.chunk.js.map": ".//https://fishdev20.github.io/Stock-App/static/js/377.4192ec79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6197e52d.css",
+    "static/js/main.0031dd68.js"
+  ]
+}
